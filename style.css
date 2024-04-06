@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: brown;
+  font-family: cursive;
+}
+
+p {
+  font-family: cursive;
+  background: peru;
+  border: 3px blue solid;
+}
+
+img {
+  width: 450px;
+  height: 450px;
+  border-radius: 50%;
+}
